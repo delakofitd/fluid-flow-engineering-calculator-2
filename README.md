@@ -4,7 +4,7 @@ A Streamlit-based petroleum engineering calculator for analysing steady pipe flo
 
 ## Live App
 
-**Live Streamlit URL:** `ADD-YOUR-STREAMLIT-APP-URL-HERE`
+**Live Streamlit URL:** `https://fluid-flow-engineering-calculator-2-cxj4q5hkesgg5yrdvybwmg.streamlit.app/
 
 Replace the placeholder above with the actual public URL after deployment.
 
@@ -46,6 +46,7 @@ streamlit run app.py
 1. `Build core fluid flow calculator with engineering calculations and validation`
 2. `Add Streamlit and plotting dependencies`
 3. `Add project documentation and deployment instructions`
+4. Add live Streamlit deployment URL
 
 ## Deployment
 
